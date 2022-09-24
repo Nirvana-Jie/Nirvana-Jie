@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 
 ### Github Stars
 
-![Nirvana-Jie's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nirvana-Jie&count_private=true&show_icons=true&theme=radical)
+![Nirvana-Jie's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nirvana-30&count_private=true&show_icons=true&theme=radical)
 
 ### The current commonly used
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nirvana-Jie&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nirvana-30&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
