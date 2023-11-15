@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 #### Im Nirvana,welcome to my repo
 
-- 🔭 I’m currently working on Baidu.
+- 🔭 I’m currently working on bytedance.
 - 📫 How to reach me: zengwenjie@redrock.team/1357711537@qq.com
 
 ### Github Stars
