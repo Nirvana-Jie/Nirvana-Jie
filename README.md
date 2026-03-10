@@ -17,12 +17,6 @@ Here are some ideas to get you started:
 
 #### Im Nirvana, welcome to my repo
 
-- 🔭 I’m currently working on bytedance.
-- 📫 How to reach me: 1357711537@qq.com
-
-### Github Stars
-
-![Nirvana-Jie's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nirvana-Jie&count_private=true&show_icons=true&theme=radical)
 
 ### The current commonly used
 
