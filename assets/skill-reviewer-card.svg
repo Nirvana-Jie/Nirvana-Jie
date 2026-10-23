@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="184" viewBox="0 0 560 184" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">skill-reviewer</title>
+  <desc id="desc">Agent Skills tooling with three modes: Review, Verify, and Evolve.</desc>
+  <rect width="560" height="184" rx="12" fill="#EAF5F2" />
+  <path d="M420 0V184M460 0V184M500 0V184M540 0V184M400 24H560M400 64H560M400 104H560M400 144H560" stroke="#CFE6DE" />
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="28" y="35" fill="#397665" font-size="11" font-weight="700" letter-spacing="2">AGENT SKILLS</text>
+    <text x="26" y="81" fill="#173B32" font-size="34" font-weight="700" letter-spacing="-1">skill-reviewer</text>
+  </g>
+  <g stroke="#6EAB96" stroke-width="1.5">
+    <rect x="28" y="119" width="100" height="35" rx="6" fill="#F9FDFC" />
+    <path d="M128 136.5H150M145 132L150 136.5L145 141" />
+    <rect x="154" y="119" width="100" height="35" rx="6" fill="#F9FDFC" />
+    <path d="M254 136.5H276M271 132L276 136.5L271 141" />
+    <rect x="280" y="119" width="100" height="35" rx="6" fill="#F9FDFC" />
+  </g>
+  <g font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="600" fill="#245B4B" text-anchor="middle">
+    <text x="78" y="142">Review</text><text x="204" y="142">Verify</text><text x="330" y="142">Evolve</text>
+  </g>
+  <g stroke="#397665" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M457 46H490L507 63V98H457Z" fill="#EAF5F2" />
+    <path d="M490 46V63H507M468 72H481M468 82H477" />
+    <circle cx="501" cy="99" r="17" fill="#D4EBE2" />
+    <path d="M493 99L499 105L510 93" />
+  </g>
+</svg>

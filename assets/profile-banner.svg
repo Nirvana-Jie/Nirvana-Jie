@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Learning AI. Building understanding.</title>
+  <desc id="desc">A dark blue banner with three connected cards representing frontend, backend, and agents.</desc>
+  <defs>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="12" cy="12" r="1" fill="#243349" />
+    </pattern>
+    <clipPath id="frame"><rect width="1200" height="280" rx="20" /></clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="280" fill="#101A2B" />
+    <rect x="630" width="570" height="280" fill="url(#dots)" opacity="0.7" />
+    <path d="M625 48V232" stroke="#2A3850" />
+    <g font-family="Arial, Helvetica, sans-serif">
+      <circle cx="58" cy="57" r="4" fill="#7DE3CF" />
+      <text x="73" y="62" fill="#AFC0D7" font-size="12" font-weight="700" letter-spacing="2.5">KEEP LEARNING</text>
+      <text x="54" y="129" fill="#F2F5FA" font-size="50" font-weight="700" letter-spacing="-1.5">Learning AI.</text>
+      <text x="54" y="181" fill="#7DE3CF" font-size="37" font-weight="700" letter-spacing="-1">Building understanding.</text>
+      <text x="56" y="228" fill="#99ACC5" font-size="16">Curiosity, code, and small experiments.</text>
+    </g>
+    <path d="M805 140H850M980 140H1025" stroke="#526782" stroke-width="2" stroke-dasharray="4 5" />
+    <g stroke="#35465F">
+      <rect x="675" y="78" width="130" height="124" rx="16" fill="#17253A" />
+      <rect x="850" y="78" width="130" height="124" rx="16" fill="#17253A" />
+      <rect x="1025" y="78" width="130" height="124" rx="16" fill="#172E3A" />
+    </g>
+    <g stroke="#B8CFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+      <rect x="720" y="107" width="40" height="30" rx="4" />
+      <path d="M720 116H760" />
+      <path d="M726 111.5H727M732 111.5H733" />
+      <path d="M732 124L728 128L732 132M748 124L752 128L748 132" />
+    </g>
+    <g stroke="#B8CFFF" stroke-width="2" stroke-linecap="round">
+      <rect x="896" y="106" width="38" height="13" rx="4" />
+      <rect x="896" y="126" width="38" height="13" rx="4" />
+      <path d="M903 112.5H904M910 112.5H925M903 132.5H904M910 132.5H925" />
+    </g>
+    <g stroke="#7DE3CF" stroke-width="2" stroke-linecap="round">
+      <path d="M1090 111V121M1085 129L1077 137M1095 129L1103 137" />
+      <circle cx="1090" cy="106" r="5" />
+      <circle cx="1090" cy="126" r="6" />
+      <circle cx="1073" cy="141" r="5" />
+      <circle cx="1107" cy="141" r="5" />
+    </g>
+    <g font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="600" text-anchor="middle">
+      <text x="740" y="176" fill="#D7E2F1">Frontend</text>
+      <text x="915" y="176" fill="#D7E2F1">Backend</text>
+      <text x="1090" y="176" fill="#A3EDDE">Agents</text>
+    </g>
+  </g>
+</svg>
