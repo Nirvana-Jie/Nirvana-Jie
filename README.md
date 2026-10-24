@@ -8,27 +8,49 @@ I'm currently learning about **AI** and exploring how it fits into useful softwa
 
 ## What I'm working on
 
-Learning through the tools I build — from reviewing agent skills to working with programming languages and developer workflows.
+My current focus is **dsh-lark-agent** and **Latch**.
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/Nirvana-Jie/skill-reviewer">
-        <img src="./assets/skill-reviewer-card.svg" alt="skill-reviewer — Review, Verify, Evolve" width="560" />
+    <td width="88" align="center" valign="middle">
+      <a href="https://github.com/Nirvana-Jie/dsh-lark-agent">
+        <img src="./assets/projects/dsh-lark-agent.png" alt="dsh-lark-agent icon" width="64" height="64" />
       </a>
-      <p><strong>Evidence-backed review for Agent Skills.</strong></p>
-      <p>Review skill packages, compare candidates with a baseline, and inspect the traces behind the results.</p>
-      <p><code>Agent Skills</code> <code>Evals</code> <code>Developer tools</code></p>
-      <p><a href="https://github.com/Nirvana-Jie/skill-reviewer">Explore skill-reviewer →</a></p>
     </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/tomlsmith/tomlsmith">
-        <img src="./assets/tomlsmith-card.svg" alt="TomlSmith — Parse, Check, Format" width="560" />
+    <td>
+      <h3><a href="https://github.com/Nirvana-Jie/dsh-lark-agent">dsh-lark-agent</a></h3>
+      <p>Reach your DeepSeek Harness assistant from Feishu / Lark. Continue conversations, hand off tasks, and respond to confirmations from your phone.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="88" align="center" valign="middle">
+      <img src="./assets/projects/latch.png" alt="Latch icon" width="64" height="64" />
+    </td>
+    <td>
+      <h3>Latch</h3>
+      <p><em>Coming soon.</em></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="88" align="center" valign="middle">
+      <a href="https://github.com/Nirvana-Jie/skill-reviewer">
+        <img src="./assets/projects/skill-reviewer.svg" alt="skill-reviewer Dashboard icon" width="64" height="64" />
       </a>
-      <p><strong>TOML tooling, from library to editor.</strong></p>
-      <p>Parse, check, and format TOML 1.0 and 1.1 with Rust — through a library, a CLI, and an LSP server.</p>
-      <p><code>Rust</code> <code>TOML</code> <code>LSP</code></p>
-      <p><a href="https://github.com/tomlsmith/tomlsmith">Explore TomlSmith →</a></p>
+    </td>
+    <td>
+      <h3><a href="https://github.com/Nirvana-Jie/skill-reviewer">skill-reviewer</a></h3>
+      <p>Evidence-backed review for Agent Skills, with paired evaluations and inspectable execution traces.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="88" align="center" valign="middle">
+      <a href="https://github.com/tomlsmith/tomlsmith">
+        <img src="./assets/projects/tomlsmith.svg" alt="TomlSmith icon" width="64" height="64" />
+      </a>
+    </td>
+    <td>
+      <h3><a href="https://github.com/tomlsmith/tomlsmith">TomlSmith</a></h3>
+      <p>Parse, check, and format TOML with Rust — through a library, a CLI, and an LSP server.</p>
     </td>
   </tr>
 </table>
@@ -46,8 +68,8 @@ Learning through the tools I build — from reviewing agent skills to working wi
 | Area | Technologies & interests |
 | --- | --- |
 | Frontend | TypeScript · JavaScript · HTML · CSS · React · Vue |
-| Backend | Node.js · APIs and services |
-| Systems & tooling | Rust · CLI tools · Language tooling |
+| Backend | Node.js · Rust · APIs and services |
+| AI (exploring) | LLM applications · Agent workflows · Tool use · Evals |
 
 ## Currently learning
 
