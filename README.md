@@ -8,9 +8,21 @@ I'm currently learning about **AI** and exploring how it fits into useful softwa
 
 ## What I'm working on
 
-My current focus is **dsh-lark-agent** and **Latch**.
+My current focus is **[Latch](https://latch.codes)**, which is now open source, and **dsh-lark-agent**.
 
 <table>
+  <tr>
+    <td width="88" align="center" valign="middle">
+      <a href="https://github.com/latch-code/latch">
+        <img src="./assets/projects/latch.png" alt="Latch icon" width="64" height="64" />
+      </a>
+    </td>
+    <td>
+      <h3><a href="https://github.com/latch-code/latch">Latch</a></h3>
+      <p>One workbench for the agents on your computer, open on every device you own. Run Codex, Claude Code and other coding agents on your Mac, alone or as a team, review and ship their work there, and keep up from your phone.</p>
+      <p><a href="https://latch.codes">latch.codes</a> · <a href="https://github.com/latch-code/latch">Source</a></p>
+    </td>
+  </tr>
   <tr>
     <td width="88" align="center" valign="middle">
       <a href="https://github.com/Nirvana-Jie/dsh-lark-agent">
@@ -20,15 +32,6 @@ My current focus is **dsh-lark-agent** and **Latch**.
     <td>
       <h3><a href="https://github.com/Nirvana-Jie/dsh-lark-agent">dsh-lark-agent</a></h3>
       <p>Reach your DeepSeek Harness assistant from Feishu / Lark. Continue conversations, hand off tasks, and respond to confirmations from your phone.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="88" align="center" valign="middle">
-      <img src="./assets/projects/latch.png" alt="Latch icon" width="64" height="64" />
-    </td>
-    <td>
-      <h3>Latch</h3>
-      <p><em>Coming soon.</em></p>
     </td>
   </tr>
   <tr>
